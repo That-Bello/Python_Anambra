@@ -1,2 +1,2 @@
 # Python_Anambra
- Python Anambra Bootcamp for beginners in Python programming.
+ Python Anambra Bootcamp for Python Enthusiasts. Where learners meet the Python Masters
