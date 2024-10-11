@@ -1,3 +1,12 @@
+# Personal Finance Manager: 
+# Build a program that allows users to input their income and expenses, 
+# and then calculate their net savings. The program should use variables to 
+#store different types of data (e.g., integers for amounts, strings for descriptions) 
+# and perform arithmetic operations to calculate totals.
+
+_________________________________________________________________________
+
+
 class PersonalFinanceApp:
 
     def __init__(self):
